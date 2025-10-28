@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Vo Gia Bach
-- 👀 I’m interested in web programming
-- 🌱 I’m currently learning Software Engineering
-- 📫 How to reach me: elizabach1604@gmail.com
-
+- 3rd year software engineering student
+- Web dev/ Devops internship
+- LUT software
+- TUM infomatic
 
 <!---
 bachcodingg/bachcodingg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
