@@ -12,7 +12,8 @@
 
 👉 TECHNICAL SKILLS
 - Languages:   Python (primary), Java, C, JavaScript, Bash, PowerShell, SQL, Scala, HTML, CSS.
-- Backend:   Django, Django REST Framework, PostgreSQL, SQLite, REST API design, JWT/OAuth, multi-tenant architecture
+- Backend:   Django, Django REST Framework, PostgreSQL, SQLite, REST API design, JWT/OAuth, multi-tenant architecture, Node.js
+- Frontend HTML, CSS, React, Vue.js, Next.js, Bootstrap, Typescript, API integration, UI/UX principles, user flow implementation, responsive layouts, Figma
 - AI / ML:   LLM prompt engineering & benchmarking, scikit-learn, XGBoost, Random Forest, SVM, SMOTE, PCA, YOLO, OpenCV
 - DevOps:   Docker, Kubernetes, CI/CD (GitHub Actions, Jenkins), AWS (S3, AppRunner, Cognito), Azure, GCP
 - Data & Viz:   Pandas, NumPy, Matplotlib, Seaborn, Plotly Dash, Pydantic, Jinja2, HTML/JSON reporting
