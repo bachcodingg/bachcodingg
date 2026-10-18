@@ -4,7 +4,7 @@ Software engineering student in my 3rd year. B.Sc. at **LUT University** (Finlan
 
 I build full-stack web apps, CI/CD pipelines and LLM tooling. My research is on AI-assisted software engineering and code quality.
 
-🔎 **Open to:** 
+🔎 **Open to:** software engineering and AI engineering job 
 
 📫 [LinkedIn](https://linkedin.com/in/bachvogia) · Giabach1645@gmail.com
 
