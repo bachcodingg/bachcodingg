@@ -9,7 +9,8 @@
 👉 Project and research:
 - Reember — AI-Powered Retail Inventory Management Platform (Capstone, Team of 5)
 - llm-se-bench — LLM Benchmarking Framework for Software Engineering
-- God Class Detection & Decomposition — Bachelor’s Thesis	
+- God Class Detection & Decomposition — Bachelor’s Thesis
+- Path to pro - football coaching and performance analysis using LLM 
 
 👉 TECHNICAL SKILLS
 - Languages:   Python (primary), Java, C, JavaScript, Bash, PowerShell, SQL, Scala, HTML, CSS.
