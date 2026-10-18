@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Vo Gia Bach
 - 3rd year software engineering student
 - I used to work as Web development full stack internship at FPT and Devops internship at TP BANK
+- I used to work as AI engineer collaborator at FPT Retail
 - LUT software 
 - TUM informatic
 - I'm currently looking for Devops/ AIops/ Full stack werkstudent or internship
